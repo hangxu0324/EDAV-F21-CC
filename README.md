@@ -2,8 +2,11 @@
 ## This file explains the intuition of creating this cheatsheet
 
 Community Contribution for EDAV-F21 Class
+
 Topic: Prepare SQL Interview Using Its R Translation
+
 Author: Hang Xu (hx2321)
+
 Date: 10/29/2021
 
 Recently I am interviewing with some tech companies for product Data Science and Data Analyst positions. The companies are looking for people to do A/B testing, Tableau Dashboards, and querying data from database is the rudimental step. For most of the time, tech companies who have tons of data in the database, uses Hadoop framework with querying tools like Hive. Though there are small difference in the syntax between different querying tools the database is using, the basic syntax I am going to introduce is the same. 
