@@ -1,5 +1,5 @@
 # EDAV-F21-CC
-##This file explains the intuition of creating this cheatsheet
+## This file explains the intuition of creating this cheatsheet
 
 Community Contribution for EDAV-F21 Class
 Topic: Prepare SQL Interview Using Its R Translation
